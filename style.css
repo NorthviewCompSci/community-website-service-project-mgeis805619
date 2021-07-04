@@ -1,3 +1,27 @@
 article p {
-    color: blue;
+    color:  #FDCE6F;
+}
+
+h1 {
+    color: #49350D;
+}
+
+h2{
+    color:  #49350D;
+}
+
+body {
+    background-color: #FE947D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color:  #FDCE6F;
+}
+
+#main1 {
+    width: 20%;
 }
